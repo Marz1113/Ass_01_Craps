@@ -27,7 +27,7 @@ public class Main
             }
             else if (sum == 7 || sum == 11)
             {
-                System.out.println("you win!");
+                System.out.println("natural, you win!");
             }
             else {
                 int point = sum;
